@@ -1,1 +1,2 @@
 "This a file B" 
+"File B is the better file" 
